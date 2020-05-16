@@ -1,1 +1,1 @@
-# Competitive-Programming-Tutorials
+# Competitive Programming Tutorials
